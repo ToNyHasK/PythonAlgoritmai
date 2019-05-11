@@ -9,7 +9,6 @@ def shellSort(arr):
             temp = arr[i]
             j = i
             while j >= gap and arr[j - gap] > temp:
-
                 arr[j] = arr[j - gap]
                 j -= gap
                 # jei elementas didesnis uz elementa salia jo, paliekam
@@ -21,7 +20,7 @@ def shellSort(arr):
 
 # driver code
 
-arr = [5, 20, 129, 15, 3]
+arr = [5, 20, 129, 15, 3, 100, 200, 2, 10]
 
 n = len(arr)
 print("Pries shell sorta:")

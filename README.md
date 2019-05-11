@@ -2,7 +2,11 @@
 
 ## Programu tikslai
 
-- Shell Sort: šis metodas pradeda rušiavima tarp elementu, kurie vienas nuo kito yra nutole(gap). Po truputi tas nutolimas yra mažinamas. Tikslas: išrušiuoti duotus duomenis.
+- **Shell Sort**: šis metodas pradeda rušiavima tarp elementu, kurie vienas nuo kito yra nutole(gap). Po truputi tas nutolimas yra mažinamas. Tikslas: išrušiuoti duotus duomenis.
+
+- **Kraskalo algoritmas**:  algoritmas grafu teorijoje, nustatantis karkasini medi jungiame neorientuotame medyje su svoriais. Jei grafas nera jungus, jis nustato minimalu karkasini miška.
+
+- **Keliu .OFF sujungimas**
 
 ## Idiegimas (Unix kompiuteryje)
 
